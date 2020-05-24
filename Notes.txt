@@ -1,0 +1,2 @@
+1. Filter by movie characters
+2. Scene based segmentation
