@@ -1,2 +1,10 @@
 1. Filter by movie characters
 2. Scene based segmentation
+3. Data imputation: Pirate conversion API(Apply on whole cornell set)
+4. Continuous training
+
+
+---------------
+
+1. scene segmentations for movies 4 and 5
+2. 
